@@ -1,12 +1,14 @@
 //const songs = ["song1.mp3", "song2.mp3", "song3.mp3"]; // Update with actual file names
 
-const songs = ["Unforgettable-slowed x reverbed.mp3", "French Montana - Unforgettable.mp3", "sweater weather.mp3",
+const songs = ["Unforgettable.mp3", "French Montana - Unforgettable.mp3", "sweater weather.mp3",
     "Summertime Sadness.mp3",
     "the weeknd-starboy.mp3",
     "kings and queens.mp3",
     "Softcore.mp3",
     "My Ordinary Life (Slowed).mp3",
-    "clean bandit.mp3"
+    "clean bandit.mp3",
+    "Sahiba.mp3",
+    "Uyi.mp3"
     ];
 
     
